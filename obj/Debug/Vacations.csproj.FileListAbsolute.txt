@@ -6,3 +6,11 @@ F:\GitHub\Vacations_5\Vacations\Vacations\obj\Debug\Vacations.csproj.SuggestedBi
 F:\GitHub\Vacations_5\Vacations\Vacations\obj\Debug\Vacations.csproj.CoreCompileInputs.cache
 F:\GitHub\Vacations_5\Vacations\Vacations\obj\Debug\Vacations.exe
 F:\GitHub\Vacations_5\Vacations\Vacations\obj\Debug\Vacations.pdb
+F:\GitHub\Vacations_5\Vacations\bin\Debug\Vacations.exe.config
+F:\GitHub\Vacations_5\Vacations\bin\Debug\Vacations.exe
+F:\GitHub\Vacations_5\Vacations\bin\Debug\Vacations.pdb
+F:\GitHub\Vacations_5\Vacations\obj\Debug\Vacations.csproj.AssemblyReference.cache
+F:\GitHub\Vacations_5\Vacations\obj\Debug\Vacations.csproj.SuggestedBindingRedirects.cache
+F:\GitHub\Vacations_5\Vacations\obj\Debug\Vacations.csproj.CoreCompileInputs.cache
+F:\GitHub\Vacations_5\Vacations\obj\Debug\Vacations.exe
+F:\GitHub\Vacations_5\Vacations\obj\Debug\Vacations.pdb

@@ -26,11 +26,11 @@ namespace Vacations
         public void GenerateVacations(List<DateTime> dateList)
         {
             int vacationCount = _numberOfVacations;
+            int range = (end - start).Days;
 
             while (vacationCount > 0)
             {
-                int range = (end - start).Days;
-                var startDate = start.AddDays(_randomGenerator.Next(range));
+                DateTime startDate = start.AddDays(_randomGenerator.Next(range));
 
                 if (_workDaysForVacations.Contains(startDate.DayOfWeek.ToString()))
                 {
